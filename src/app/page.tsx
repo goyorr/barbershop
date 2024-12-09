@@ -9,7 +9,7 @@ export default function Home() {
     <div className="min-h-screen flex flex-col">
       {/* <Header /> */}
       <main>
-        <div className="bg-cover bg-center" style={{backgroundImage: "url('f.jpg')"}}>
+        <div className="bg-cover bg-center" style={{backgroundImage: "url('backgroung.jpg')"}}>
         <Hero />
         <Services />
         <BookingForm />
